@@ -62,5 +62,4 @@ Full derivations and proofs:
 
 - Beskos, A. & Roberts, G. O. (2005). *Exact simulation of diffusions.*
   Annals of Applied Probability.
-- Henry-Labordère, P., Tan, X. & Touzi, N. (2017). *Unbiased simulation
-  of stochastic differential equations.* Annals of Applied Probability.
+
